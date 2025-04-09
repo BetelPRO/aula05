@@ -1,5 +1,5 @@
 x = 0
-for i in range(4):
+for i in range(10):
     num = int(input("Digite um número: "))
     if num < 0:
         x +=1
